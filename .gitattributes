@@ -1,0 +1,2 @@
+Imagelab[[:space:]]Setup.exe filter=lfs diff=lfs merge=lfs -text
+Quantstudio[[:space:]]setup.exe filter=lfs diff=lfs merge=lfs -text
